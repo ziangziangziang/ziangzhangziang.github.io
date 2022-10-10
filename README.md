@@ -1,2 +1,5 @@
 # ziangzhangziang.github.io
-My static personal page
+
+Please visit [ziangziang.com](ziangziang.com) for my personal website.
+
+This repo is my [nexie clock application](ziangziangziang.github.io).
